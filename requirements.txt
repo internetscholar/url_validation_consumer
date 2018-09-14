@@ -1,3 +1,5 @@
+tldextract>=2.2.0
+urllib3>=1.23
 psycopg2-binary>=2.7.4
 boto3>=1.6.22
 requests>=2.18.4
